@@ -55,7 +55,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:ibtehajraza/spring-pet-clinic-2.0.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/ibtehajraza/spring-pet-clinic-2.0.git</developerConnection>
 	  	<tag>spring-pet-clinic-2.0-0.0.1</tag>
   	</scm>
 
